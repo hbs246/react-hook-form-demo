@@ -1,0 +1,16 @@
+export const FOR = {
+  FIRST_NAME: "firstName",
+  LAST_NAME: "lastName",
+  EMAIL_ADDRESS: "emailAddress",
+  PASSWORD: "password",
+  PHONE_NUMBER: "phoneNumber",
+  CITY: "city",
+  STATE: "state",
+  ADDRESS_LINE_1: "addressLine1",
+  ADDRESS_LINE_2: "addressLine2",
+  GRID_CHECK: "gridCheck",
+  STREET: "street",
+  ZIP_CODE: "zipCode",
+  COUNTRY_CODE: "countryCode",
+  COUNTRY: "country",
+};
